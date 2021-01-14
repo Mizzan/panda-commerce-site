@@ -1,0 +1,23 @@
+.no-border {
+  border: 0;
+}
+
+.my-border {
+  border-radius: 1em;
+}
+.categories img {
+  width: 100px;
+}
+
+.panda-slide .carousel-item {
+  background-color: #fceae8;
+  border-radius: 1em;
+}
+
+.custom-btn {
+  padding: 15px 20px;
+  background-color: rgba(248, 34, 34, 0.7);
+  border: none;
+  color: #fff;
+  border-radius: 20px;
+}
